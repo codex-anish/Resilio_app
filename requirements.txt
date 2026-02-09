@@ -1,11 +1,6 @@
 fastapi
-uvicorn
+uvicorn[standard]
 requests
 python-dotenv
-opencv-python
 numpy
-openai-whisper
-torch
-torchvision
-soundfile
-ffmpeg-python
+google-generativeai
