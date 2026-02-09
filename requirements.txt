@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+opencv-python
+numpy
+openai-whisper
+torch
+torchvision
+soundfile
+ffmpeg-python
